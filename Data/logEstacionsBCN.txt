@@ -1,0 +1,45 @@
+El Servei Meteorològic de Catalunya disposa de les estacions 
+meteorològiques automàtiques (EMA) de Codis X4, X2, D5, X8, XL, WU, Y7.
+Aquestes estacions pertanyen a la Xarxa d’Estacions Meteorològiques Automàtiques (XEMA), 
+integrada a la Xarxa d’Equipaments Meteorològics de la Generalitat de Catalunya (Xemec).
+
+1) Informació de les estacions EMA i dels fitxers que s'adjunten:
+
+Codi EMA Nom EMA Comarca Data inici Data Final Altura anemòmetre (m) X UTM (m) Y UTM (m) Z (m)
+X4	Barcelona - el Raval	Barcelonès	11/10/2006	 10	430414	4581709 33
+X8	Barcelona - Zona Universitària	Barcelonès 17/04/2008 10	425195	4581239 79
+X2	Barcelona - Zoo	Barcelonès	22/09/2006	0 
+D5	Barcelona - Observatori Fabra	Barcelonès 03/11/1995	10 426777 4585602	411
+WU	Badalona - Museu	Barcelonès	21/09/2005 6	437154	4589225	42
+Y7	Port de Barcelona - Bocana Sud	Baix Llobregat	08/04/2015 10	430144	4574312 3
+
+Abreviació	Nom variable (Dades de període)	Unitat
+T	Temperatura	°C
+HR	Humitat relativa	%
+PPT	Precipitació	mm
+RS	Irradiància solar global	W/m²
+P	Pressió atmosfèrica	hPa
+VV10	Velocitat del vent a 10 m (esc.)	m/s
+DV10	Direcció de vent 10 m (m. 1)	°
+VVx10	Ratxa màxima del vent a 10 m	m/s
+DVVx10	Direcció de la ratxa màxima del vent a 10 m	°
+VV6	Velocitat del vent a 6 m (esc.)	m/s
+DV6	Direcció del vent a 6 m (m. 1)	°
+VVx6	Ratxa màxima del vent a 6 m	m/s
+DVVx6	Direcció de la ratxa màxima del vent a 6 m	°
+Px	Pressió atmosfèrica màxima	hPa
+Pn	Pressió atmosfèrica mínima	hPa
+HRx	Humitat relativa màxima	%
+HRn	Humitat relativa mínima	%
+Tx	Temperatura màxima	°C
+Tn	Temperatura mínima	°C
+
+
+*Nota en relació amb les dades facilitades:
+
+Les dades semi horàries o horàries de període es donen sempre en Temps Universal (T.U.). 
+En horari d'estiu l'hora oficial s'obté afegint dues hores al Temps Universal (T.U.), i en horari d'hivern l'hora oficial s'obté afegint una hora al Temps Universal (T.U.).
+Les dades de precipitació es proporcionen en mil·límetres (mm), 
+unitat equivalent a litres per metre quadrat (l/m2).
+
+
